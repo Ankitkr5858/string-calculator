@@ -19,7 +19,7 @@ A simple string calculator implemented in TypeScript that supports multiple deli
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/string-calculator.git
+    git clone https://github.com/Ankitkr5858/string-calculator.git
     cd string-calculator
     ```
 
